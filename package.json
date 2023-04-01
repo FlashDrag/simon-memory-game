@@ -1,0 +1,22 @@
+{
+  "name": "simon-memory-game",
+  "version": "1.0.0",
+  "description": "Simon is a memory game where you have to repeat the sequence of colors that the computer shows. The sequence gets longer each time you get it right. If you get it wrong, you lose.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlashDrag/simon-memory-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FlashDrag/simon-memory-game/issues"
+  },
+  "homepage": "https://github.com/FlashDrag/simon-memory-game#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
