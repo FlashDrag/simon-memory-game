@@ -16,8 +16,10 @@ Steps to set up the environment for new project:
 2. Initialise npm in the project directory
 - ``` npm init ```
 All parameters can be left as default except for the test command. It should be set to: ``` jest ```
-3. Install jest
+3. Install jest testing framework
 - ``` npm install --save-dev jest ```
+4. Install JSDOM environment allowing Jest to simulate a browser environment for testing purposes.
+- ``` npm install -D jest-environment-jsdom ```
 
 _To run the tests_:
 - ``` npm test ```

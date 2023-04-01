@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/FlashDrag/simon-memory-game#readme",
   "devDependencies": {
-    "jest": "^29.5.0"
+    "jest": "^29.5.0",
+    "jest-environment-jsdom": "^29.5.0"
   }
 }
